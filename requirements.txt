@@ -1,4 +1,4 @@
-python
-bokeh
-pandas
-jupyterlab
+python>=0
+bokeh>=0
+pandas>=0
+jupyterlab>=0
